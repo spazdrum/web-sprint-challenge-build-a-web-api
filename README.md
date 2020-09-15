@@ -86,7 +86,6 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
     Tooling, such as Postman, test the endpoint and HTTP method functionality. These tools allow us to manually use the endpoint we're designing in a development environment.
 
-
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
 ## Instructions
